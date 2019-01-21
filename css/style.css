@@ -107,7 +107,7 @@ html {
 }
 .fh5co-hero-inner > p {
   width: 400px;
-  font-size: 14px;
+  font-size: 1em;
   color: #fff;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -274,7 +274,7 @@ html {
 .fh5co-features-outer .sm-6-content p {
   color: #111;
   font-weight: 500;
-  font-size: 14.5px;
+  font-size: 1em;
   line-height: 1.8em;
   width: 450px;
 }
