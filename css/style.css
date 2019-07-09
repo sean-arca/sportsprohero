@@ -76,6 +76,10 @@ html {
   font-weight: 500;
 }
 
+#nav-pro {
+  border: 2px solid white;
+}
+
 .social-icons-header i {
   margin: 15px;
   font-size: 20px;
